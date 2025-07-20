@@ -36,7 +36,7 @@ This repository is a public portfolio showcasing my most refined and production-
 - **`Notification System 1.0.0`**  
   ❗ Custom text/format • ✨ Smooth animations • ⏲️ Adjustable timers
 
-- **`Ticket System`** *(WIP)*  
+- **`Ticket System`** 
   🎫 In-game support ticketing • 🗂️ Category-based UI • 🧑‍💻 For admin & mod teams
 
 ---
@@ -67,16 +67,7 @@ This repository is a public portfolio showcasing my most refined and production-
 
 ## 📷 Demo & Previews
 
-> Screenshots, video demos, and GIFs will be added in each system folder to better showcase functionality and design.
 
----
-
-## 📂 Repository Structure
-
-Each system is organized in its own folder:
-- `MainScript.lua` – core functionality
-- `README.md` – feature breakdown & usage
-- `Demo.png` or `Preview.gif` – (optional) visual media
 
 ---
 
@@ -86,3 +77,4 @@ Each system is organized in its own folder:
 Name: Yadex
 Role: Roblox Developer / Scripter
 Specialties: Roleplay Systems • UI/UX • Anti-Exploit • Realistic Game Systems • Client/Server Communication
+Contact - vlhyadexpezona_. (Discord)
