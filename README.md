@@ -67,8 +67,13 @@ This repository is a public portfolio showcasing my most refined and production-
 
 ## 📷 Demo & Previews
 
-- https://mega.nz/file/rIFW0bKK#ICDDTePMu5Pq99jBQCMGSyjSLuOP1eME4-MMOVlgOwA - **`CarWipe Video`** 
-- https://mega.nz/file/ycklxDBR#dxm-z76_UYfpWv5phIuKHB-Qb9NKbst1i3yozQv3ZPs - **`/panel Staff Vest System`** 
+- https://mega.nz/file/rIFW0bKK#ICDDTePMu5Pq99jBQCMGSyjSLuOP1eME4-MMOVlgOwA - **`CarWipe ShowCase`** 
+- https://mega.nz/file/XZ8gCIpb#hqOLwDvHrTqdmqs867LkfesQMSgM-buBWEGnQ5q4PUA - **`/panel Staff Vest System ShowCase`**
+- https://mega.nz/file/7BsQwaxb#TF-uvLTynslpYUYVGDtZDvw_8b6v7GQ3zwg3gJA-KFc - **`Fire System 1.0.0 ShowCase`**
+- https://mega.nz/file/aJkQRCrZ#rxtbu0IR6PszsjQR-I6y3ZV2wTSaS5-Ce2vCJjnd5Vk - **`Advanced & Realistic Ragdoll ShowCase`**
+- https://mega.nz/file/LNExzQxQ#eh3bc6hEWCl3khQt3ADaZ6PPCx39t7sFjnxunZx2aNM - **`Notification System 1.0.0`**
+- https://mega.nz/file/vJFkwIYK#iPL3BWNW6VgzQLjby4GcMkIVWM7fw6pDc9OJtgSuhfY - **`Truck System ShowCase`**
+- OTHERS SHOWCASE SISTEM IN - https://discord.gg/jkpxpNamtF
 ---
 
 ## 👨‍💻 About Me
