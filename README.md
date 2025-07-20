@@ -68,7 +68,7 @@ This repository is a public portfolio showcasing my most refined and production-
 ## 📷 Demo & Previews
 
 - https://mega.nz/file/rIFW0bKK#ICDDTePMu5Pq99jBQCMGSyjSLuOP1eME4-MMOVlgOwA - **`CarWipe Video`** 
-
+- https://mega.nz/file/ycklxDBR#dxm-z76_UYfpWv5phIuKHB-Qb9NKbst1i3yozQv3ZPs - **`/panel Staff Vest System`** 
 ---
 
 ## 👨‍💻 About Me
